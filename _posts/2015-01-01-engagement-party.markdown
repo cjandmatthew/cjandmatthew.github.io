@@ -15,4 +15,4 @@ We took Dave, Sheila, and Wesley to the Steamboat Arabia museum and perused fron
 
 ![CJ](/images/dsc01476.jpg)
 
-Matthew and his family got to know my family and some of our closeset family friends.
+Matthew and his family got meet my whole family and some of our close family friends.
