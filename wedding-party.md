@@ -21,3 +21,4 @@ Our Wedding Party is made up of our close friends and family who have graciously
 - Daniel Christopher
 - Robert Bliss
 - Colin Laursen
+- Jeff LaPlante
