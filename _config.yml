@@ -12,7 +12,7 @@ url: "http://www.cjandmatthew.com"
 markdown: kramdown
 highlighter: pygments
 permalink: pretty
-relative_permalinks: true
+gems: [ jekyll-paginate ]
 paginate: 5
 exclude: [ 'README.md', 'Gemfile.lock', 'Gemfile', 'CNAME' ]
 sass:
