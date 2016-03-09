@@ -11,13 +11,14 @@
 
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
-      {% for node in site.pages %}
-        {% if node.title != null %}
-          {% if node.layout == "page" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
-          {% endif %}
-        {% endif %}
-      {% endfor %}
+      
+      <a class="sidebar-nav-item" href="/about/">About</a>
+      <a class="sidebar-nav-item" href="/travel/">Travel</a>
+      <a class="sidebar-nav-item" href="/wedding/">Wedding</a>
+      <a class="sidebar-nav-item" href="/weekend_schedule/">Weekend Schedule</a>
+      <a class="sidebar-nav-item" href="/wedding_party/">Wedding Party</a>
+      <a class="sidebar-nav-item" href="/registry/">Registry</a>
+      <a class="sidebar-nav-item" href="/honeymoon/">Honeymoon</a>
     </nav>
   </div>
 </div>

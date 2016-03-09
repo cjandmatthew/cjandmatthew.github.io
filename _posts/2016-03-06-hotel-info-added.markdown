@@ -9,5 +9,5 @@ If you're traveling to Kansas City, you can start booking your travel! We have s
 
 If you prefer booking your hotel reservations by phone, please use the following dedicated Group Reservations phone numbers in order book within the block:
 
-- Reservations Toll Free: 1-877-303-0104
-- Reservations Local Phone: 816-421-6800
+- Reservations Toll Free: [1-877-303-0104](tel:1-877-303-0104)
+- Reservations Local Phone: [1-816-421-6800](tel:1-816-421-6800)

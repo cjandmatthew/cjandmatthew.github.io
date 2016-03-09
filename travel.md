@@ -26,7 +26,7 @@ If you prefer booking your hotel reservations by phone, please use the following
 
 ## Ground Transportation
 
-We will provide trolleys to shuttle the wedding party and guests from the Hotel to and from the Ceremony and Reception. Airport shuttles, taxis, and Uber are all options in Kansas City if you don't choose to rent a car. The hotel is located a block away from the new [Kansas City trolley line](http://kcstreetcar.org/route/) which provides free transportation to many of the suggested things to do like the Steamboat Arabia, Union Station, and Crowne Center. 
+We will provide trolleys to shuttle the wedding party and guests from the Hotel to and from the Ceremony and Reception. Airport shuttles, taxis, and Uber are all options in Kansas City if you don't choose to rent a car. The hotel is located a block away from the new [KC Streetcar](http://kcstreetcar.org/route/) which provides free transportation to many of the suggested things to do like the Steamboat Arabia, Union Station, and Crowne Center. 
 
 ## Things to Do
 
