@@ -14,7 +14,7 @@ If you are flying into Kansas City, the nearest airport is Kansas City Internati
 
 ## Hotel Recommendations
 
-We have secured a room block at the Marriott at 200 W. 12th Street in Kansas City, MO for a reduced rate of $139 per night. If you would like to reserve a room online, [visit this site.](https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=14768875) Rooms must be booked by May 20th. 
+We have secured a room block at the Marriott at 200 W. 12th Street in Kansas City, MO for a reduced rate of $139 per night. If you would like to reserve a room online, [visit this site.](https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=14768875) Rooms must be booked by May 27th. 
 
 If you prefer booking your hotel reservations by phone, please use the following dedicated Group Reservations phone numbers in order book within the block:
 

@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Matthew and CJ met in 2011 at a hip, little, Vegan restaurant in Echo Park after he romantically sent her a link to the dinner menu. Nearly five years later, we're asking you to join us in celebrating our committment to a life together filled with board game nights, dance lessons, Vegan dinner parties, organ recitals, trips to Disneyland, garden walks, Operas, nerdy articles from Hacker News, fancy drinks, fine hats, and all the uncharted delights the future will bring.
+Matthew and CJ met in 2011 at a hip, little, Vegan restaurant in Echo Park after he romantically sent her a link to the [dinner menu.](http://www.sageveganbistro.com/menus/dinner-menu) Nearly five years later, we're asking you to join us in celebrating our committment to a life together filled with board game nights, dance lessons, mountain hikes, vegan dinner parties, organ recitals, trips to Disneyland, garden walks, operas, nerdy articles from Hacker News, fancy drinks, fine hats, and all the uncharted delights the future will bring.
 
 ![Glacier](/images/img_1976.jpg)
 

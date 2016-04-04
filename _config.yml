@@ -7,7 +7,7 @@ url: "http://www.cjandmatthew.com"
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: pretty
 gems: [ jekyll-paginate ]
 paginate: 5
